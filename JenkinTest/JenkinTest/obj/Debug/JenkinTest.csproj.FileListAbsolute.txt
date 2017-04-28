@@ -1,0 +1,5 @@
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTest\obj\Debug\JenkinTest.csprojResolveAssemblyReference.cache
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTest\bin\Debug\JenkinTest.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTest\bin\Debug\JenkinTest.pdb
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTest\obj\Debug\JenkinTest.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTest\obj\Debug\JenkinTest.pdb

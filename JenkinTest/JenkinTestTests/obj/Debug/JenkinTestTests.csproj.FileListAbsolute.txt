@@ -1,0 +1,8 @@
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\bin\Debug\JenkinTestTests.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\bin\Debug\JenkinTestTests.pdb
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\bin\Debug\JenkinTest.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\bin\Debug\JenkinTest.pdb
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\obj\Debug\JenkinTestTests.csprojResolveAssemblyReference.cache
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\obj\Debug\JenkinTestTests.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\JenkinTestTests\obj\Debug\JenkinTestTests.pdb

@@ -1,0 +1,8 @@
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\bin\Debug\Execute.exe.config
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\bin\Debug\Execute.exe
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\bin\Debug\Execute.pdb
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\bin\Debug\JenkinTest.dll
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\bin\Debug\JenkinTest.pdb
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\obj\Debug\Execute.csprojResolveAssemblyReference.cache
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\obj\Debug\Execute.exe
+C:\Users\dhiraj.k.kumar\Pictures\Jenkins\JenkinTest\Execute\obj\Debug\Execute.pdb
